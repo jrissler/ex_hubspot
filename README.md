@@ -8,11 +8,11 @@ The package can be installed as:
 
   1. Add ex_hubspot to your list of dependencies in `mix.exs`:
 
-    ```elixir
-    def deps do
-      [{:ex_hubspot, "~> 0.0.1"}]
-    end
-    ```
+  ```elixir
+  def deps do
+    [{:ex_hubspot, "~> 0.0.1"}]
+  end
+  ```
 
   2. Run `mix deps.get` in your console to fetch from Hex
 
